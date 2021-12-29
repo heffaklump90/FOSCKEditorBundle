@@ -1,5 +1,5 @@
 {
-    "name": "friendsofsymfony/ckeditor-bundle",
+    "name": "heffaklump90/ckeditor-bundle",
     "type": "symfony-bundle",
     "description": "Provides a CKEditor integration for your Symfony project.",
     "keywords": [
@@ -8,11 +8,11 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Eric GELOEN",
-            "email": "geloen.eric@gmail.com"
+            "name": "Björn Andersson",
+            "email": "bjoern.andersson@agile-elevation"
         },
         {
-            "name": "FriendsOfSymfony Community",
+            "name": "Forked from FriendsOfSymfony Community",
             "homepage": "https://github.com/FriendsOfSymfony/FOSCKEditorBundle/graphs/contributors"
         }
     ],
